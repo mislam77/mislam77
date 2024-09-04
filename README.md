@@ -12,9 +12,7 @@
 
  🎓 I'm a CS student @ **CUNY City College of New York**
  
- 💻 I’m currently interning @ **Art Beyond Sight**
- 
- ✏️ I’m currently learning **Drupal, Laravel, AWS, and Tensorflow**
+ 💻 I’m currently learning **Drupal, Laravel, AWS, and Tensorflow**
 
  👾 I like playing **video games**, watching **anime**, and reading **books(mostly fiction)**
 
