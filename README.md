@@ -10,11 +10,11 @@
 
 <div align="center">
 
- 🎓 I'm a CS student @ **CUNY City College of New York**
+ 🎓 I'm a Senior CS student @ **CUNY City College of New York**
  
- 💻 I’m currently learning **Drupal, Laravel, AWS, and Tensorflow**
+ 💻 I’m actively looking for **New Grad opportunities**
 
- 👾 I like playing **video games**, watching **anime**, and reading **books(mostly fiction)**
+ 👾 I like playing **video games**, watching **anime**, and reading **manga/light novels**
 
  </div>
  
