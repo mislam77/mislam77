@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mislam77.mislam77" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=F7F7F7&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Md+Wasiul!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=F7F7F7&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Md+W.!;" />
 </h1>
 
 <h3 align="center">A passionate software engineer based in the US</h3>
