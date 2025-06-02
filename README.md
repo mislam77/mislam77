@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🎓 I'm a Senior CS student @ **CUNY City College of New York**
+ 🎓 I'm a CS Graduate from **The City College of New York**
  
  💻 I’m actively looking for **New Grad opportunities**
 
